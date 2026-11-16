@@ -1,107 +1,92 @@
-<h1 align="center">Olá! Eu sou o Isaac Farias 👋</h1>
+# Nome do projeto
 
-<h3 align="center">Software Engineer | Node.js · Laravel · Python</h3>
+![GitHub repo size](https://img.shields.io/github/repo-size/isaacfariaas/isaacfariaas?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/isaacfariaas/isaacfariaas?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/isaacfariaas/isaacfariaas?style=for-the-badge)
+![GitHub open issues](https://img.shields.io/github/issues/isaacfariaas/isaacfariaas?style=for-the-badge)
+![GitHub open pull requests](https://img.shields.io/github/issues-pr/isaacfariaas/isaacfariaas?style=for-the-badge)
 
-<p align="center">
-  📍 Rio de Janeiro, Brasil &nbsp;·&nbsp; 💼 Software Engineer @ Olist
-</p>
+<img src="imagem.png" alt="Exemplo imagem">
 
----
+> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
-## 🧑‍💻 Sobre mim
+## Ajustes e melhorias
 
-Desenvolvedor Back-end com mais de 5 anos de experiência em **desenvolvimento, design e arquitetura de aplicações escaláveis**.
-Já atuei em projetos de cybersecurity / threat intelligence, automação de dados e APIs de alta performance, sempre aplicando **DDD**, **Arquitetura Hexagonal** e boas práticas de engenharia.
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-🚀 **Apaixonado por construir sistemas que fazem a diferença no mundo real.**
+- [x] Tarefa 1
+- [x] Tarefa 2
+- [x] Tarefa 3
+- [ ] Tarefa 4
+- [ ] Tarefa 5
 
----
+## 💻 Pré-requisitos
 
-## 🧰 Tecnologias e Ferramentas
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
+- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
+- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
----
+## 🚀 Instalando {nome_do_projeto}
 
-## 🧠 Arquitetura e Práticas
+Para instalar o {nome_do_projeto}, siga estas etapas:
 
-- 🧱 Clean Architecture
-- 📚 Domain Driven Design (DDD)
-- 🧭 Arquitetura Hexagonal
-- 🔁 CI/CD com GitHub Actions / GitLab CI
-- 🛰️ Sistemas distribuídos e mensageria
-- 🕵️‍♂️ Cyber Threat Intelligence e automação de coleta de dados
+Linux e macOS:
 
----
+```bash
+<comando_de_instalação>
+```
 
-## 📌 Experiência
+Windows:
 
-- **Olist** — Software Engineer _(jan/2026 – atual)_
-- **OPLIUM** — Software Engineer _(nov/2023 – jan/2026)_ · Python, FastAPI, DDD, AWS, Threat Intelligence
-- **SESA** — Mid-level Backend Engineer _(ago/2022 – nov/2023)_ · Laravel, AdonisJS, Node.js, liderança técnica
-- **NTL Nova Tecnologia** — Full-stack Developer (Aprendiz) _(jun/2020 – jul/2021)_
+```powershell
+<comando_de_instalação>
+```
 
-🎓 Centro Universitário IBMR
+## ☕ Usando {nome_do_projeto}
 
----
+Para usar {nome_do_projeto}, siga estas etapas:
 
-## ⚙ Estatísticas do GitHub
+```bash
+<exemplo_de_uso>
+```
+
+Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
+
+## 📫 Contribuindo para {nome_do_projeto}
+
+Para contribuir com {nome_do_projeto}, siga estas etapas:
+
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_branch>`
+5. Crie a solicitação de pull.
+
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
+
+## 🤝 Colaboradores
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 <table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=isaacfariaas&theme=radical&hide_border=false&include_all_commits=true&show_icons=true"
-        alt="Estatísticas do GitHub"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacfariaas&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Linguagens mais usadas"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://streak-stats.demolab.com/?user=isaacfariaas&theme=radical&hide_border=false"
-        alt="Sequência de contribuições"
-      />
-    </td>
-  </tr>
+<tr>
+<td align="center">
+<a href="https://github.com/isaacfariaas" title="Perfil do Isaac Farias no GitHub">
+<img src="https://github.com/isaacfariaas.png" width="100" alt="Foto do Isaac Farias no GitHub"/><br>
+<sub>
+<b>Isaac Farias</b>
+</sub>
+</a>
+</td>
+</tr>
 </table>
 
----
+## 😄 Seja um dos contribuidores
 
-## 📬 Contato
+Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Isaac%20Farias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacfariaas/)](https://www.linkedin.com/in/isaacfariaas/)
-[![Gmail Badge](https://img.shields.io/badge/-isaacfarias@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dev.isaacfarias@gmail.com)
+## 📝 Licença
 
----
-
-<div align="center">
-  <h3><b>📍 Visitantes do perfil</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=isaacfariaas&label=Visitantes&color=3DDC84&style=flat-square"
-    alt="Número de visitantes no perfil"
-  />
-</p>
+Esse projeto está sob a licença {nome_da_licença}. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
