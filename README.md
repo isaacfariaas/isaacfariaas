@@ -53,7 +53,7 @@ Desenvolvedor Back-end com mais de 5 anos de experiência em **desenvolvimento, 
 ## 📬 Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/-Isaac%20Farias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isaacfariaas/)](https://www.linkedin.com/in/isaacfariaas/)
-[![Gmail Badge](https://img.shields.io/badge/-isaacfarias@email.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dev.isaacfarias@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dev.isaacfarias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dev.isaacfarias@gmail.com)
 
 ---
 
